@@ -1,0 +1,18 @@
+body {
+    font-family: 'Tahoma", sans-serif;
+}
+.div1 {
+    height: 45px;
+    padding-top: 10px;
+    color: white;
+}
+.space {
+    padding-right: 540px;
+}
+.navbar-brand {
+    padding-left: 50px;
+}
+.maintext {
+    padding-top: 150px;
+    padding-left: 100px;
+}
