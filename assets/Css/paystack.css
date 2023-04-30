@@ -1,0 +1,116 @@
+header {
+    height: 100px;
+    width: auto;
+    padding: 0;
+    background-color: #e2fee2;
+}
+nav {
+    background:rgba(255,255, 255, 0.1);
+    height: 65px;
+    width: 100%;
+}
+#div-bar1 {
+    height: 45px;
+    width: auto;
+    background-color: #011b33;
+    color: white;
+}
+.container-xxl {
+    width: 600px;
+}
+.cont2 {
+    margin-left: 250px;
+    background-color: transparent;
+    width: 600px;
+}
+#left-item {
+    width: 650px;
+    height: 310px;
+    margin-right: 300px;
+}
+.drop1 {
+    float: left;
+    width: 500px;
+    height: 100px;
+}
+.drop2 {
+    float: right;
+}
+.item-right {
+    width: 650px;
+    height: 500px;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.main-text {
+    height: 110vh;
+    background-color: #e2fee2;
+    padding-top: 150px;
+    padding-left: 90px;
+}
+a {
+    text-decoration: none;
+}
+.sub-main {
+    color: green;
+    padding-left: 15px;
+}
+.navbar {
+    position:fixed;
+}
+.main-bottom {
+    padding-top: 320px;
+}
+#play-btn {
+    float: right;
+    margin-top: -60px;
+}
+h5  {
+    margin-top: -60px;
+    float: right;
+}
+.container-fluid {
+    padding-top: 150px;
+    padding-left: 100px;
+}
+.poptions {
+    padding-top: 70px;
+    padding-left: 100px;
+}
+.beside-poption1 {
+    margin-top: -650px;
+    padding-right: 150px;
+    float: right;
+}
+.icon2 {
+    float: right;
+    margin-top: -153px;
+    padding-right: 90px;
+}
+.beside-poption2 {
+    margin-top: -210px;
+    padding-right: 200px;
+    float: right;
+}
+.beside-poption2-link a {
+    color: green;
+}
+.beside-poption2-link i:hover {
+    color: green;
+} 
+.sect3 {
+    padding-left: 100px;
+    margin-top: 150px;
+    height: 600px;
+}
+.sect3-text {
+    padding-top: 50px;
+}
+.sect3 a {
+    color: green;
+}
+#robust {
+    float: right;
+    margin-top: -585px;
+}
