@@ -36,9 +36,9 @@ nav {
 .drop2 {
     float: right;
 }
-.item-right {
-    width: 650px;
-    height: 500px;
+#item-right {
+    width: 630px;
+    height: 400px;
 }
 .dropdown:hover .dropdown-menu {
     display: block;
