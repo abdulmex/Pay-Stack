@@ -1,13 +1,11 @@
-header {
-    height: 100px;
-    width: auto;
-    padding: 0;
-    background-color: #e2fee2;
+body {
+    font-family: 'Roboto', sans-serif;
 }
 nav {
-    background:rgba(255,255, 255, 0.1);
     height: 65px;
     width: 100%;
+    color: #030826;
+    font-weight: 530;
 }
 #div-bar1 {
     height: 45px;
@@ -40,6 +38,13 @@ nav {
     width: 630px;
     height: 400px;
 }
+.droplearn {
+    align-items: center;
+    width: 100px;
+    background-color: aqua;
+    float: right;
+    text-decoration: none;
+}
 .dropdown:hover .dropdown-menu {
     display: block;
 }
@@ -52,12 +57,26 @@ nav {
 a {
     text-decoration: none;
 }
-.sub-main {
-    color: green;
-    padding-left: 15px;
-}
 .navbar {
     position:fixed;
+}
+.m-text {
+    color: #030826;
+    padding-top: 70px;
+    font-weight: 700;
+    font-size:51.2px;
+}
+.mp-text {
+    padding-top: 5px;
+    font-size:22.2px;
+}
+.btn-main {
+    width: 250px;
+    height: 53px;
+}
+.sub-main {
+    color: green;
+    margin-left: 15px;
 }
 .main-bottom {
     padding-top: 320px;
