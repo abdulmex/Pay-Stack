@@ -9,7 +9,7 @@ nav {
     position: relative;
 }
 .navbar {
-    /* background-blend-mode: screen; */
+    background-blend-mode: screen;
      position: sticky;
     top:0px;
 } 
@@ -57,7 +57,7 @@ nav {
 .main-text {
     height: 135vh;
     background-color: #e2fee2;
-    padding-top: 150px;
+    padding-top: 120px;
     padding-left: 90px;   
 }
 h3 {
@@ -87,7 +87,7 @@ a {
     margin-left: 15px;
 }
 .main-bottom {
-    padding-top: 320px;
+    padding-top: 280px;
 }
 #play-btn {
     float: right;
